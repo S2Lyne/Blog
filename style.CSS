@@ -24,18 +24,18 @@ spam{
     font-size: 16px;
     font-style: italic;
     padding-left: 10px;
-    background-color:lightgrey;
+    background-color:rgba(189, 184, 184, 0.39);
 }
 #titulo{
     font-size: 40px;
 }
 header{
-    background-color: rgba(rgba(189, 184, 184, 0.39));
+    background-color: rgba(189, 184, 184, 0.39);
     text-align: center;
 }
 section{
     display: flex;
-    background-color:rgba(rgba(189, 184, 184, 0.39));
+    background-color:rgba(189, 184, 184, 0.39);
     height: 1300px;
     padding: 10px;
 }
@@ -110,5 +110,5 @@ aside{
     margin-right: 20px;
 }
 #tag1{
-    background-color: black;
+    background-color: lightblack;
 }
