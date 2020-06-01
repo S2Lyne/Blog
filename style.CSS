@@ -36,7 +36,7 @@ header{
 section{
     display: flex;
     background-color:rgba(rgba(189, 184, 184, 0.39));
-    height: 1200px;
+    height: 1300px;
     padding: 10px;
 }
 
@@ -110,5 +110,5 @@ aside{
     margin-right: 20px;
 }
 #tag1{
-    background-color: black
+    background-color: black;
 }
