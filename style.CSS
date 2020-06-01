@@ -24,7 +24,7 @@ spam{
     font-size: 12px;
     font-style: italic;
     padding-left: 10px;
-    background-color:grey;
+    background-color:lightgrey;
 }
 #titulo{
     font-size: 40px;
@@ -35,21 +35,21 @@ header{
 }
 section{
     display: flex;
-    background-color:whitesmoke;
+    background-color:rgba(rgba(189, 184, 184, 0.39));
     height: 1200px;
     padding: 10px;
 }
 
 article{
     display: flex;
-    background-color:rgba(rgba(189, 184, 184, 0.39));
+    background-color:whitesmoke;
     flex: 2;
     flex-direction: column;
     margin-left: 10px;
     margin-right: 20px;
 }
 aside{
-    background-color:rgba(rgba(189, 184, 184, 0.39));
+    background-color:whitesmoke;
     flex: 1;
     display: flex;
     justify-content: space-around;
@@ -58,18 +58,18 @@ aside{
     margin-right: 20px;
 }
 .ladoa{
-    background-color: rgba(rgba(189, 184, 184, 0.39));
+    background-color: whitesmoke;
     flex: 3;
     margin-bottom: 40px;
     box-shadow: 0px 2px 2px -1px;
 }
 .ladob{
-    background-color: rgba(rgba(189, 184, 184, 0.39));
+    background-color: whitesmoke;
     flex: 2;
     box-shadow: 0px 2px 2px -1px;
 }
 .cima{
-    background-color: rgba(rgba(189, 184, 184, 0.39));
+    background-color: whitesmoke;
     flex: 3;
     margin-bottom: 40px;
     box-shadow: 0px 2px 2px -1px;
@@ -78,7 +78,7 @@ aside{
     padding-left: 10px;
 }
 .meio{
-    background-color: rgba(rgba(189, 184, 184, 0.39));
+    background-color: whitesmoke;
     flex: 2;
     margin-bottom: 40px;
     box-shadow: 0px 2px 2px -1px;
@@ -87,7 +87,7 @@ aside{
     padding-left: 10px;
 }
 .baixo{
-    background-color: rgba(rgba(189, 184, 184, 0.39));
+    background-color: whitesmoke;
     flex: 2;
     margin-bottom: 20px;
     box-shadow: 0px 2px 2px -1px;
