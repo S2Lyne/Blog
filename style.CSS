@@ -80,7 +80,7 @@ aside{
     padding-left: 10px;
 }
 .meio{
-    background-color: wheat;
+    background-color: #fff;
     flex: 2;
     margin-bottom: 40px;
     box-shadow: 0px 2px 2px -1px;
@@ -91,7 +91,7 @@ aside{
 .baixo{
     background-color: #fff;
     flex: 2;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     box-shadow: 0px 2px 2px -1px;
     font-size: 10px;
     font-style: italic;
